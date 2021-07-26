@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,500,700&display=swap");
+
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.red {
+  color: red;
+}
+
+h2 {
+  font-weight: bolder;
+}
+
+.row {
+  display: flex;
+}
+
+body {
+  width: 800px;
+  margin: auto;
+}
+
+header {
+  align-self: center;
+}
+
+main {
+  padding: 0, 10%;
+}
+
+.left {
+  display: flex;
+  background: whitesmoke;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-basis: 100%;
+  flex: auto;
+  padding: 2%;
+}
+
+.right {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 2;
+  justify-content: flex-end;
+  background-color: #0bb5f4;
+  padding: 2%
+}
+
+footer {
+  margin-top: 5%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+footer a {
+  display: contents;
+}
+
+footer a img {
+  margin-left: 5%;
+  width: 10%;
+  height: 10%;
+}
+
+img[alt="GitHub Repository Link"] {
+  border-radius: 30%;
+  width: 5%;
+  margin-right: 5%;
+}
