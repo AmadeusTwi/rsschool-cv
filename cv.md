@@ -56,8 +56,8 @@ function arithmetic(a, b, operator) {
 
 ## Опыт работы
 
-3 месяца - стажировка React Lab в iTechArt
-1 месяц - работа в штате в iTechArt, Junior Software Developer
+3 месяца - стажировка React Lab в iTechArt (Апрель 2021 - Июнь 2021)
+1 месяц - работа в штате в iTechArt, Junior Software Developer (Июль 2021)
 
 ## Образование (включая курсы, семинары, лекции, онлайн-обучение)
 
